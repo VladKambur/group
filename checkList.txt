@@ -1,0 +1,4 @@
+Number                      check                     result
+1.                        whole numbers              passed
+2.                        fractional numbers         failed
+3.                        whole and fractional numbers  passed
