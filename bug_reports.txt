@@ -1,0 +1,22 @@
+Short description
+
+Project
+
+App components
+
+Importance
+*S1 Blocker
+*S2 Critical
+*S3 Major
+*S4 Minor
+*S5 Trivial
+
+Status -   New
+
+Author -      Main Dev
+
+Assigned to -    Developer
+
+playBack steps - 1. Open main page: http://www.google.com --> 
+
+
